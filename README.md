@@ -47,7 +47,7 @@ I do too! [Prezto](https://github.com/sorin-ionescu/prezto) rocks-- and works gr
 
 One can configure a few things:
 
-- `bgnotify_threshold` sets the notification threshold time (default 6 seconds)
+- `bgnotify_threshold` sets the notification threshold time (default 5 seconds)
 - `function notify_formatted` lets you change the notification
 
 Use these by adding a function definition before the your call to source. Example:
